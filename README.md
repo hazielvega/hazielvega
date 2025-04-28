@@ -17,10 +17,10 @@
 ---
 
 ## 📌 Proyectos Destacados  
-- **[Gestión de Ventas Web](https://github.com/hazielvega/gestión-ventas-laravel)**  
+- **[Gestión de Ventas Web](https://github.com/hazielvega/ecommerce)**  
   E-commerce con Laravel 11, Livewire y MySQL. *Autenticación, carrito de compras, pasarela de pagos.*  
-- **[Sitio Web UNSA](https://github.com/hazielvega/unsa-web-internacional)**  
-  Desarrollo de plugins personalizados en WordPress para la Secretaría de Relaciones Internacionales.  
+- **[Sitio Web UNSA](https://github.com/hazielvega/sctyri)**  
+  Estoy aprendiendo a integrar React en conjunto con laravel 12 a la nueva aplicación web de la secretaría de relaciones internacionales UNSa.  
 
 ---
 
